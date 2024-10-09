@@ -1,4 +1,6 @@
-## Hi there 👋
+## 你好，Hello! 👋
+我是一名业余编程爱好者，在工作之余写一些自己突发奇想的小项目。技术水平不高，热爱开源、热爱分享。
+欢迎你对我的项目提出宝贵的意见和建议 :)
 
 <!--
 **JessieChan0730/JessieChan0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

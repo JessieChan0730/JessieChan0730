@@ -1,5 +1,5 @@
 ## 你好，Hello! 👋
-欢迎来到我的github主页，welcome to my github`s homepage :)
+欢迎来到我的github主页，welcome to my github`s homepage :)，目前正在学习Java，Python和JavaScript。I am currently learning Java, Python and JavaScript.
 
 <!--
 **JessieChan0730/JessieChan0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
